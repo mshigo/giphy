@@ -1,0 +1,39 @@
+body {
+    background: #eee;
+}
+
+form {
+    float: right;
+}
+
+#sw-input{
+    width: 100%;
+    margin-bottom: 10px;
+    height: 20px;
+}
+
+.sw-image{
+    cursor: pointer;
+    justify-content: space-evenly;
+}
+
+label {
+    margin-bottom: 5px;
+    display: block;
+}
+
+button, #add {
+    margin: 0 5px 5px 0;
+    border: 0;
+    cursor: pointer;
+    padding-top: 15px;
+}
+
+#gifs {
+    width: 90%;
+}
+
+.topic {
+    padding-left: 8px;
+    padding-right: 8px;
+}
